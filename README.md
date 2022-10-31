@@ -3,3 +3,4 @@
   1) KNN
   2) SVR
   3) Yapay Sinir Ağları
+  4) CART
