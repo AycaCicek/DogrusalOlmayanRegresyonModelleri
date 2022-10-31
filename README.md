@@ -1,6 +1,5 @@
 # Turkcell Geleceği Yazanlar
-- Veri Seti --> https://www.kaggle.com/datasets/floser/hitters
-    Veri seti aşağıda verilen tüm algoritmalariçin kullanılmıştır. 
+- Veri Seti --> https://www.kaggle.com/datasets/floser/hitters , Veri seti aşağıda verilen tüm algoritmalar için kullanılmıştır. 
 - Makine Öğrenmesi Notları
   1) KNN
   2) SVR
