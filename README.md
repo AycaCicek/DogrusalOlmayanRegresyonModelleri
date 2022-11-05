@@ -6,3 +6,4 @@
   3) Yapay Sinir Ağları
   4) CART
   5) Random Forest
+  6) GBM
