@@ -8,3 +8,4 @@
   5) Random Forest
   6) GBM
   7) XGBoost
+  8) LGBM
