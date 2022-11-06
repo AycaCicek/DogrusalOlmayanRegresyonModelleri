@@ -9,3 +9,4 @@
   6) GBM
   7) XGBoost
   8) LGBM
+  9) CatBoost
