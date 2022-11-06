@@ -7,3 +7,4 @@
   4) CART
   5) Random Forest
   6) GBM
+  7) XGBoost
